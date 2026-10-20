@@ -206,24 +206,6 @@ pip3 install Flask
 
 ---
 
-## Step 5: Create the application file
-
-Create a file named:
-
-```text
-app.py
-```
-
-Copy the CodeCraftHub Flask application code into this file.
-
-The final project should contain at least:
-
-```text
-codecrafthub/
-├── app.py
-└── venv/
-```
-
 You do not need to manually create `courses.json`. The application creates it automatically when it starts.
 
 ---
